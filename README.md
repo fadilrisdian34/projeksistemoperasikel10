@@ -1,2 +1,4 @@
-# projeksistemoperasikel10
-Projek Sistem Opertasi Kelompok 10 
+# Tugas Projek sistem operasi
+Kelompok 10
+
+Soal #3.22

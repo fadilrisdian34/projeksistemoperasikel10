@@ -16,6 +16,8 @@ int main(int argc, char **argv){
     int shm_fd;
     void *ptr;
 
+// blablablablalblablablbllablab
+
     shm_fd = shm_open(name,O_CREAT | O_RDWR,0666);
 
     ftruncate(shm_fd,SIZE);/*Truncate the file*/
